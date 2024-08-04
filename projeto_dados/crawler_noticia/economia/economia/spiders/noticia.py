@@ -22,3 +22,5 @@ class NoticiasSpider(scrapy.Spider):
         
 
 
+
+

@@ -32,3 +32,6 @@ class G1Spider(scrapy.Spider):
             'body': {'text': body}
         }
         yield item
+
+
+
